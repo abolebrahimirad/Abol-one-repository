@@ -52,7 +52,7 @@ SCALES = [
 STEPS_TEMPLATES = [
     textwrap.dedent("""\
     Step 1 — Problem Definition:
-    Write a 2–3 sentence description clearly defining the core problem.
+    Write a 2–3 sentence description clearly defining the core proble.
 
     Step 2 — Base Assumptions:
     Provide 3 assumptions that both AIs must follow in their answers.
