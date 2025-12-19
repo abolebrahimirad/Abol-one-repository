@@ -1,5 +1,5 @@
 
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """
 prompt_generator.p
 Generate multi-layer, debate-style prompts for a two-AI scoring system.
