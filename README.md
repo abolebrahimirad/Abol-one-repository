@@ -14,7 +14,7 @@ Options:
 """
 
 import argparse
-import jso
+import json
 import random
 import textwrap
 from datetime import datetime
