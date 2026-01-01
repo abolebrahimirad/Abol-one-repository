@@ -5,7 +5,7 @@ prompt_generator.
 Generate multi-layer, debate-style prompts for a two-AI scoring system.
 
 Usage:
-    python prompt_generator.py --count 10 --format md --seed 42 > prompts.md
+    python prompt_generator.py --count 10 --format md --seed 42 > prompts.m
 
 Options:
     --count N       Number of prompts to generate (default: 10)
