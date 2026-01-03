@@ -1,5 +1,5 @@
 
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 rompt_generator.
 Generate multi-layer, debate-style prompts for a two-AI scoring system.
