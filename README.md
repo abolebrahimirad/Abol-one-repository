@@ -17,7 +17,7 @@ import argparse
 import json
 import random
 import textwrap
-from datetime import datetime
+from datetime import datetim
 
 # ---------- Configurable building blocks ----------
 TOPICS = [
