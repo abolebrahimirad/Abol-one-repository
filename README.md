@@ -13,7 +13,7 @@ Options:
     --seed S        Random seed for reproducibility
 """
 
-import argpars
+import argparse
 import json
 import random
 import textwrap
